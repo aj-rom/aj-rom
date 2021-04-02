@@ -4,7 +4,6 @@ My name is A.J. I love many thigns but programming has had a special place in my
 - 🔭 I’m currently working on [carbon_tools](https://github.com/aj-rom/carbon_tools)
 - 🌱 I’m currently learning Full-Stack Software Engineering at the [FlatIron School](https://flatironschool.com/)
 - 👯 I’m looking to collaborate on any of my profjects, feel free to contribute!
-- 
 ---
 
 ## About
