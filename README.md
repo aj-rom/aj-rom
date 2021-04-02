@@ -1,5 +1,5 @@
 # Hey There 👋 
-My name is A.J. I love many thigns but programming has had a special place in my heart ever since a young age. Here is some info on me.
+My name is A.J. I love many things, but programming has had a special place in my heart ever since a young age. Here is some info on me.
 
 - 🔭 I’m currently working on [carbon_tools](https://github.com/aj-rom/carbon_tools)
 - 🌱 I’m currently learning Full-Stack Software Engineering at the [FlatIron School](https://flatironschool.com/)
