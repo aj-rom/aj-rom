@@ -36,7 +36,7 @@ My name is A.J. I love many things, but programming has had a special place in m
 <a href="https://www.spigotmc.org/members/coachl_ck.786451/">
   <img align="left" alt="A.J. Romaniello | Spigot Dev" height="50px" src="https://raw.githubusercontent.com/aj-rom/aj-rom/main/assets/spigot.svg" />
 </a>
-<a href="https://discord.gg/kJWrjhM">
+<a href="https://discord.gg/KjBMWzVnFf">
   <img align="left" alt="A.J.'s Discord Server" height="50px" src="https://raw.githubusercontent.com/aj-rom/aj-rom/main/assets/discord.svg" />
 </a>
 <br>
