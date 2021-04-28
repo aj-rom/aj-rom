@@ -2,7 +2,7 @@
 
 My name is A.J. I love many things, but programming has had a special place in my heart ever since a young age. Here is some info on me.
 
-- 🔭 I’m currently working on [Pollen](https://github.com/pollendev/), trying to pave the path to a more sustainable future.
+- 🔭 I’m currently working on [Pollen](https://github.com/aj-rom/pollen-site), trying to pave the path to a more sustainable future.
 - 🌱 I’m currently learning Full-Stack Software Engineering at the [FlatIron School](https://flatironschool.com/)
 - 👯 I’m looking to collaborate on any of my projects, feel free to contribute!
 
@@ -17,6 +17,7 @@ My name is A.J. I love many things, but programming has had a special place in m
 
 ## Websites
 [![hike-it-up](https://github-readme-stats.vercel.app/api/pin/?username=aj-rom&repo=hike-it-up&theme=default)](https://github.com/aj-rom/hike-it-up)
+[!pollen-site](https://github-readme-stats.vercel.app/api/pin/?username=aj-rom&repo=pollen-site&theme=default)](https://github.com/aj-rom/pollen-site)
 
 ## Projects
 [![carbon_tools](https://github-readme-stats.vercel.app/api/pin/?username=aj-rom&repo=carbon_tools&theme=default)](https://github.com/aj-rom/carbon_tools)
