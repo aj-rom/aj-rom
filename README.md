@@ -2,7 +2,7 @@
 
 My name is A.J. I love many things, but programming has had a special place in my heart ever since a young age. Here is some info on me.
 
-- 🔭 I’m currently working on [Pollen](https://github.com/aj-rom/pollen-site), trying to pave the path to a more sustainable future.
+- 🔭 I’m currently working on [twitter-clone](https://github.com/aj-rom/twitter-clone), a portfolio project for the Flatiron School.
 - 🌱 I’m currently learning Full-Stack Software Engineering at the [FlatIron School](https://flatironschool.com/)
 - 👯 I’m looking to collaborate on any of my projects, feel free to contribute!
 
