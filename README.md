@@ -2,8 +2,8 @@
 
 My name is A.J. I love many things, but programming has had a special place in my heart ever since a young age. Here is some info on me.
 
-- 🔭 I’m currently working on [Pollen](https://github.com/pollendev), paving the path to a more sustainable future.
-- 🌱 I’m currently learning Full-Stack Software Engineering at the [FlatIron School](https://flatironschool.com/)
+- 🔭 I’m currently working on setting up my [personal portfolio](https://aj-rom.github.io).
+- 🌱 I’m currently searching for a Software Engineering position.
 - 👯 I’m looking to collaborate on any of my projects, feel free to contribute!
 
 ---
