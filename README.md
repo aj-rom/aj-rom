@@ -22,7 +22,6 @@ My name is A.J. I love many things, but programming has had a special place in m
 ## Projects
 [![carbon_tools](https://github-readme-stats.vercel.app/api/pin/?username=aj-rom&repo=carbon_tools&theme=default)](https://github.com/aj-rom/carbon_tools)
 [![elem_info](https://github-readme-stats.vercel.app/api/pin/?username=aj-rom&repo=elem_info&theme=default)](https://github.com/aj-rom/elem_info)
-[![Confile](https://github-readme-stats.vercel.app/api/pin/?username=aj-rom&repo=Confile&theme=default)](https://github.com/aj-rom/Confile)
 
 ## Find Me
 <a href="https://linkedin.com/in/aj-romaniello/">
