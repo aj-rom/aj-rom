@@ -2,7 +2,7 @@
 
 My name is A.J. I love many things, but programming has had a special place in my heart ever since a young age. Here is some info on me.
 
-- 🔭 I’m currently working on setting up my [personal portfolio](https://aj-rom.github.io).
+- 🔭 I’m currently working on a couple of side projects: [warframe-ruby](https://github.com/aj-rom/warframe-ruby) and [neow-browser](https://github.com/aj-rom/neow-browser).
 - 🌱 I’m currently searching for a Software Engineering position.
 - 👯 I’m looking to collaborate on any of my projects, feel free to contribute!
 
